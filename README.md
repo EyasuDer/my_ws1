@@ -7,7 +7,7 @@ The robot is equipped with Lidar (for SLAM) and Camera ( for object tracking alg
 https://github.com/user-attachments/assets/62cc081c-50f2-43a1-b1f2-87056c809757
 https://github.com/user-attachments/assets/d8ec5d56-f59d-4d16-9990-659dadef8904
 
-# Robot simulation using RVIZ2
+# Robot simulation in RVIZ2
 
 ![Screenshot from 2025-02-20 17-58-26](https://github.com/user-attachments/assets/1ebd2588-3e0c-4b57-873b-ed0ae0ef1f75)
 
