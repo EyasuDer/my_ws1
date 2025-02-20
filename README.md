@@ -13,6 +13,7 @@ https://github.com/user-attachments/assets/d8ec5d56-f59d-4d16-9990-659dadef8904
 
 # SLAM implementation using slam toolbox
 ![Mapping](https://github.com/user-attachments/assets/660c15dc-dd51-4d8c-9fdb-f5dbffb18e75)
+![Mapping](https://github.com/user-attachments/assets/5ea04e3f-1142-4dd2-81b7-2d6b746535ed)
 
  
 
