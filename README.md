@@ -2,7 +2,7 @@
 #.# This is project implements simulitanuous localization and mapping of a differential robot (three-wheeled robot) using ROS humble and Gazebo classic.
 #.# The custom gazebo environment and the robot are shown below:
 ![image_file](https://github.com/user-attachments/assets/a9b36010-b449-4de6-9c35-a26cc6d595f9)
-The following videos show controlling the robot using teloep_twist_keyboard
+The following videos show robot control using teloep_twist_keyboard
 The robot is equipped with Lidar (for SLAM) and Camera ( for object tracking algorithm implementations)
 https://github.com/user-attachments/assets/62cc081c-50f2-43a1-b1f2-87056c809757
 https://github.com/user-attachments/assets/d8ec5d56-f59d-4d16-9990-659dadef8904
@@ -15,5 +15,5 @@ https://github.com/user-attachments/assets/d8ec5d56-f59d-4d16-9990-659dadef8904
 ![Mapping](https://github.com/user-attachments/assets/660c15dc-dd51-4d8c-9fdb-f5dbffb18e75)
 ![Mapping](https://github.com/user-attachments/assets/5ea04e3f-1142-4dd2-81b7-2d6b746535ed)
 
- 
+ # Navigation of robot using AMCL(Adaptive Monte Carlo Localisation)-basded Nav2 
 
