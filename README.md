@@ -6,6 +6,7 @@ This project implements simulitanuous localization and mapping of a differential
 ## The following videos show robot control using teloep_twist_keyboard
 The robot is equipped with Lidar (for SLAM) and Camera ( for object tracking algorithm implementations)
 https://github.com/user-attachments/assets/62cc081c-50f2-43a1-b1f2-87056c809757
+
 https://github.com/user-attachments/assets/d8ec5d56-f59d-4d16-9990-659dadef8904
 
 # Robot simulation in RVIZ2
