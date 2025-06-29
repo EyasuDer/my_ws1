@@ -5,9 +5,8 @@ This project implements simulitanuous localization and mapping of a differential
 
 ## The following videos show robot control using teloep_twist_keyboard
 The robot is equipped with:
-
--Lidar for SLAM, and 
--Camera for object tracking using OpenCV and Visual SLAM.
+ *Lidar for SLAM, and 
+ *Camera for object tracking using OpenCV and Visual SLAM.
 
 https://github.com/user-attachments/assets/62cc081c-50f2-43a1-b1f2-87056c809757
 
